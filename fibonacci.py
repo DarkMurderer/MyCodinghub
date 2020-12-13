@@ -1,4 +1,4 @@
-#Fibonacci cal and multipyer
+#Fibonacci cal and multiplier
 #Made by Dark Murderer
 
 #==============================================================================
